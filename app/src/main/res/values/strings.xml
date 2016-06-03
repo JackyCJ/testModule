@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testModule</string>
+    <string name="action_settings">Settings</string>
+    <string name="showtoast">show toast</string>
+    <string name="changecolor">change color</string>
+</resources>
